@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm a stident from UESTC.
+I'm currently working on CV.
+
 <!--
 **BanShaoce/BanShaoce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
